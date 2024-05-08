@@ -1,0 +1,1 @@
+This a simple todo list app where you can add daily schedule , tick mark the schedule done and also delte the schedule if the work is completed. The data will be stored locally in browser, therefore after refreshing or closing the web browser will not change or delete the todo list.
